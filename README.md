@@ -1,1 +1,1 @@
-# strukturdatalearning
+# strukturdata-learning
